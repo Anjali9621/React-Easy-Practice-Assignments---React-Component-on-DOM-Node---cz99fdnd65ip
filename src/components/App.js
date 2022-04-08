@@ -1,5 +1,5 @@
 import React from "react";
-function Garage() {
+function App() {
   return (
 <p>
   Now I can render any React component on any DOM node I want using
