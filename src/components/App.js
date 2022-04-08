@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from 'react-dom';
-function App() {
+const App=()=> {
   return (
 <p>
   Now I can render any React component on any DOM node I want using
